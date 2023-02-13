@@ -1,0 +1,150 @@
+# Copyright (C) 2023 ReKKi13
+# This file is distributed under the same license as the ReKKi13 Google Auth plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: ReKKi13 Google Auth 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ReKKi13-Google-"
+"Auth\n"
+"POT-Creation-Date: 2023-01-13T08:42:03+00:00\n"
+"PO-Revision-Date: 2023-01-13 10:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: rekki13-google-auth\n"
+
+#. Plugin Name of the plugin
+msgid "ReKKi13 Google Auth"
+msgstr "ReKKi13 Google Аутентификатор"
+
+#. Description of the plugin
+msgid "Test Task google 2 auth"
+msgstr "Тестовое задание Google Аутентификатор"
+
+#. Author of the plugin
+msgid "ReKKi13"
+msgstr "ReKKi13"
+
+#. Author URI of the plugin
+msgid "https://rekki13.dev/"
+msgstr "https://rekki13.dev/"
+
+#: admin/class-rekki13-google-auth-admin.php:43
+msgid "Created by ReKKi13 Google Auth"
+msgstr "Cоздано ReKKi13 Google Auth"
+
+#: admin/class-rekki13-google-auth-admin.php:114
+msgid "Account create successfully. Go to "
+msgstr "Аккаунт создан успешно. Перейти "
+
+#: admin/class-rekki13-google-auth-admin.php:116
+#: includes/class-rekki13-google-auth-activator.php:19
+msgid "Login Page"
+msgstr "Логин"
+
+#: admin/class-rekki13-google-auth-admin.php:283
+msgid "Display for users:"
+msgstr "Показывать для пользователей:"
+
+#: admin/class-rekki13-google-auth-admin.php:292
+msgid "Logged"
+msgstr "Авторизованых"
+
+#: admin/class-rekki13-google-auth-admin.php:296
+msgid "Non Logged"
+msgstr "Не авторизованых"
+
+#: includes/class-rekki13-google-auth-activator.php:38
+msgid "Registration Page"
+msgstr "Регистрация"
+
+#: includes/class-rekki13-google-auth-activator.php:56
+msgid "Account Page"
+msgstr "Аккаунт"
+
+#: public/class-rekki13-google-auth-public.php:115
+msgid "Google2AF code"
+msgstr "Google2AF код"
+
+#: public/class-rekki13-google-auth-public.php:119
+#: public/class-rekki13-google-auth-public.php:152
+msgid ""
+"If you don't have Google Authenticator enabled for your WordPress account, "
+"leave this field empty."
+msgstr ""
+"Если у Google аутентификатор не подключен к вашему аккаунту Wordpress, "
+"оставьте поле пустым."
+
+#: public/class-rekki13-google-auth-public.php:133
+msgid "Don't have an account?"
+msgstr "Нет аккаунта?"
+
+#: public/class-rekki13-google-auth-public.php:135
+#: public/partials/rekki13-google-auth-registration_form.php:32
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+#: public/class-rekki13-google-auth-public.php:148
+msgid "Google Authenticator code"
+msgstr "Код Google Аутентификатор"
+
+#: public/partials/rekki13-google-auth-account.php:11
+msgid "Your profile has been updated"
+msgstr "Ваш профиль обновлен"
+
+#: public/partials/rekki13-google-auth-account.php:16
+#: public/partials/rekki13-google-auth-loggin_form.php:6
+#: public/partials/rekki13-google-auth-registration_form.php:7
+msgid "Username"
+msgstr "Никнейм"
+
+#: public/partials/rekki13-google-auth-account.php:20
+#: public/partials/rekki13-google-auth-registration_form.php:11
+msgid "Email"
+msgstr "Почта"
+
+#: public/partials/rekki13-google-auth-account.php:24
+#: public/partials/rekki13-google-auth-loggin_form.php:7
+#: public/partials/rekki13-google-auth-registration_form.php:15
+msgid "Password"
+msgstr "Пароль"
+
+#: public/partials/rekki13-google-auth-account.php:28
+msgid "Is enabled Google Auth?"
+msgstr "Тестовое задание Google Аутентификатор?"
+
+#: public/partials/rekki13-google-auth-account.php:38
+#: public/partials/rekki13-google-auth-registration_form.php:29
+msgid "Please scan this code on your google authenticator"
+msgstr "Пожалуйста сканируйте код в ваш google аутентификатор"
+
+#: public/partials/rekki13-google-auth-account.php:41
+msgid "Save"
+msgstr "Сохранить"
+
+#: public/partials/rekki13-google-auth-account.php:45
+#: public/partials/rekki13-google-auth-logged.php:3
+msgid "Logout?"
+msgstr "Выйти?"
+
+#: public/partials/rekki13-google-auth-logged.php:2
+msgid "You are logged in"
+msgstr "Вы уже авторизованы"
+
+#: public/partials/rekki13-google-auth-loggin_form.php:8
+#: public/partials/rekki13-google-auth-registration_form.php:34
+msgid "Sign in"
+msgstr "Войти"
+
+#: public/partials/rekki13-google-auth-registration_form.php:18
+msgid "Add Google Auth?"
+msgstr "Добавить Google Аутентификатор?"
+
+#: public/partials/rekki13-google-auth-registration_form.php:34
+msgid "Already have an account?"
+msgstr "Уже есть аккаунт?"
