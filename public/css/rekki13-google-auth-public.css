@@ -1,0 +1,36 @@
+.container .row {
+    display: flex;
+    column-gap: 100px;
+}
+.text-center{
+    text-align: center;
+}
+.row .col {
+    flex: 1 0 0%;
+}
+#rekki13_google_auth_form label {
+    display: block;
+}
+
+#rekki13_google_auth_form input {
+    width: 100%;
+}
+
+#rekki13_google_auth_form p {
+    margin-bottom: 30px;
+}
+#loginform .hint input {
+    margin-bottom: 0;
+}
+
+#rekki13_google_auth_form p:last-of-type {
+
+    margin-bottom: 0;
+}
+#rekki13_google_auth_form p.checkbox{
+    display: flex;
+    justify-content: space-between;
+}
+#rekki13_google_auth_form p.checkbox input {
+    width: 25px;
+}
