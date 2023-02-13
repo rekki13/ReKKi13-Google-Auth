@@ -1,0 +1,6 @@
+#loginform .hint input{
+    margin-bottom: 0px;
+}
+#loginform .hint  {
+    margin-bottom: 16px;
+}
